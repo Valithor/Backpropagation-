@@ -1,0 +1,3 @@
+Dodano pomoc przy starcie.
+Zmieniono sposob wprowadzania probek 
+(wczytywanie z pliku, w jednej linijce jedna probka, wartosci oddzelone spacja).
